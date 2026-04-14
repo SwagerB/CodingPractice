@@ -10,5 +10,6 @@ int main()
         InsertList(&list, i, i);
     }
     PrintList(&list);
+    printf("hello world\n");
     return 0;
 }

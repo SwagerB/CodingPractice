@@ -19,3 +19,5 @@ SelfPranctice/*.o
 # 临时文件
 *~
 *.swp
+main
+a.out
